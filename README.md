@@ -1,7 +1,7 @@
 # brief-jobs
 
 - <a href='#introduction'>Introduction</a>
-- <a href='#blockchain-developper'>Développeur Blockchain</a>
+- <a href='#blockchain-developer'>Développeur Blockchain</a>
 
 # Introduction
 
