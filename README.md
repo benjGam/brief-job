@@ -3,12 +3,12 @@
 - <a href='#introduction'>Introduction</a>
 - <a href='#blockchain-developer'>Développeur Blockchain</a>
 
-# Introduction
+# Introduction <a id='introduction'></a>
 
 This present document is a presentation of Blockchain Developer job<br>
 and Software architect job, i'll introduce my strategy to get in those both jobs<br>
 
-# Le métier de Développeur Blockchain
+# Le métier de Développeur Blockchain <a id='blockchain-developer'></a>
 
 Le rôle du Développeur Blockchain est de développer des solutions adaptées<br>
 à la blockchain sur laquelle il travaille, cependant, il est important de faire<br>
