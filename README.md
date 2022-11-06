@@ -42,6 +42,9 @@ cryptographiques, c'est pourquoi il s'agit d'un aspect du métier de développeu
 
 Le développeur blockchain doit être capable de mettre en place une architecture blockchain<br>
 sécurisé, d'analyser les données concernant sa blockchain.<br>
+
+Le développeur blockchain doit être à même de corriger des bugs.<br>
+
 En outre, il doit être capable de s'assurer du bon fonctionnement des composants logiciels,<br>
 la collaboration avec les différents acteurs de la blockchain tels que : 
 
@@ -51,8 +54,10 @@ la collaboration avec les différents acteurs de la blockchain tels que :
 
 L'architecte blockchain et le développeur blockchain peuvent être amené à travailler<br>
 ensemble afin d'élaborer l'architecture la plus adaptée à la blockchain.<br>
+
 L'architecte est en charge de toute la partie conception de la blockchain ainsi que<br>
 d'apporter des solutions de sécurité adpatées à l'infrastructure de la blockchain<br>
+
 Il sera lui même amené à collaborer avec l'ingénieur blockchain.<br>
 
 L'ingénieur blockchain étant la version évoluée du développeur blockchain, ces derniers<br>
@@ -62,8 +67,26 @@ afin d'élaborer une blockchain fiable et optimisée.<br>
 Le DevOps (Developpeur Opérateur) blockchain et le développeur blockchain, sont eux aussi<br>
 amenés à collaborer tout au long du cycle de vie de la blockchain sur laquelle ils travaillent<br>
 car le DevOps à une place importante dans le développement de la blockchain, il sera à même<br>
+
 d'établir une liaison entre la partie développement de la blockchain et l'adaptabilité système<br>
 Il s'agit donc d'un élément très important qui sera amené à collaborer avec le développeur Blockchain<br>
 ainsi qu'avec l'ingénieur blockchain.<br>
 
-Le développeur blockchain doit être à même de corriger des bugs.<br>
+# Les outils du Développeur Blockchain
+
+Le développeur Blockchain doit avoir connaissance de quelques outils pour travailler correctement<br>
+Les outils du développeur Blockchain : 
+
+- Embark
+- Geth
+- Truffle
+- Remix IDE
+- web3js
+- MetaMask
+- Prysm
+
+La liste ci-dessus n'est pas exhaustive et ne serait être réelement représentative du champ de<br>
+possibilités disponibles en terme d'outillage lié au développement blockchain.<br>
+Cependant, lors du développement d'application décentralisé (dApps) ces outils seront d'indispensables.<br>
+Il existe encore un très large panel d'outil.<br>
+<a href='https://www.codementor.io/learn/blockchain/development-tools'>Consultez une liste plus complète</a>
