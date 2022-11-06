@@ -45,8 +45,8 @@ sécurisé, d'analyser les données concernant sa blockchain.<br>
 
 Le développeur blockchain doit être à même de corriger des bugs.<br>
 
-En outre, il doit être capable de s'assurer du bon fonctionnement des composants logiciels,<br>
-la collaboration avec les différents acteurs de la blockchain tels que : 
+En outre, il doit être capable de s'assurer du bon fonctionnement des composants logiciels, ainsi que<br>
+d'assurer l'aspect collaboratif avec les différents acteurs de la blockchain tels que : 
 
 - L'architecte Blockchain
 - L'ingénieur Blockchain
@@ -91,7 +91,7 @@ Cependant, lors du développement d'application décentralisé (dApps) ces outil
 Il existe encore un très large panel d'outil.<br>
 <a href='https://www.codementor.io/learn/blockchain/development-tools'>Consultez une liste plus complète</a>
 
-# Soft skills nécessaire au Développeur Blockchain
+# Soft skills nécessaires au Développeur Blockchain
 
 Le développeur blockchain doit savoir faire preuve de rigueur lors du développement de la blockchain<br>
 car il s'agit d'un système relativement complexe.<br>
@@ -117,3 +117,20 @@ domaine, par exemple un développeur Web FullStack doit maîtriser les technolog
 concernant le Front-End et les technologies concernant le Back-End, cependant<br>
 il y'a beaucoup trop de technologies dans ces 2 domaines pour être capables de toutes<br>
 les maîtriser, c'est pourquoi il est impossible d'être un développeur FullStack compétent.<br>
+
+# Qu'est ce qu'un 'Ingénieur Logiciel' doit faire de plus qu'un 'Simple' Développeur 
+
+L'ingénieur logiciel doit s'assurer du bon déroulement de tous les aspects concernant<br>
+l'application pendant toute la durée du cycle de vie de cette dernière.<br>
+
+C'est à dire qu'il doit veiller à ce que la conception, l'ajout de nouveaux composants,<br>
+le maintient de l'application se fasse dans les meilleurs conditions possibles.<br>
+
+Aussi il doit produire du code fiable et optimisé qu'il sera amené à débugger,<br>
+il s'assure que le système sur lequeul est mis en place l'application soit mis à jour,<br>
+il écrit la documentation technique relative à l'application et s'assure que le déploiement<br>
+de cette dernière soit correctement effectué, il évalue les retours des utilisateurs.<br>
+
+Alors que le simple développeur doit quant à lui s'occuper de produire du code fiable, optimisé<br>
+et debbugable, il s'assure aussi du maintient de l'application dans la plupârt des cas.<br>
+
