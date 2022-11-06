@@ -103,3 +103,9 @@ Le dévelopeur blockchain doit être capable d'innover afin de créer de nouvell
 oeuvre la blockchain.<br>
 
 Aussi faire preuve de réactivité, afin de prévenir toute situation inatendue<br>
+
+# Les évolutions possible du Développeur Blockchain
+
+Le développeur blockchain peut devenir un ingénieur blockchain par la suite<br>
+Ou bien encore un architecte blockchain, s'il a suffisamment d'expérience.<br>
+
