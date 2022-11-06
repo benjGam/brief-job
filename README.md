@@ -2,6 +2,11 @@
 
 - <a href='#introduction'>Introduction</a>
 - <a href='#blockchain-developer'>Développeur Blockchain</a>
+    - <a href='#tools-developer'>Les outils du Développeur Blockchain</a>
+    - <a href='#soft-skills-developer'>Les qualités requises pour être un bon Développeur Blockchain</a>
+    - <a href='#evolution-developer'>Les évolutions possibles du Développeur Blockchain</a>
+- <a href='#fullstack'>Un FullStack compétent ces temps-ci ?</a>
+- <a href='#diff-ingeneer-developer'>Quelle est la différence entre un Ingénieur Logiciel et un Développeur</a>
 
 # Introduction <a id='introduction'></a>
 
@@ -133,4 +138,3 @@ de cette dernière soit correctement effectué, il évalue les retours des utili
 
 Alors que le simple développeur doit quant à lui s'occuper de produire du code fiable, optimisé<br>
 et debbugable, il s'assure aussi du maintient de l'application dans la plupârt des cas.<br>
-
