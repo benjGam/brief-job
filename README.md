@@ -182,3 +182,40 @@ des contraintes personnelles.<br>
 Le développeur Blockchain peut-être attiré par une start-up orientée blockchain en raison du type d'entreprise dont il s'agit<br>
 ainsi que par la façon dont intéragissent les éléments humains au sein d'une start-up.<br>
 
+# Le recrutement
+
+Le recrutement de nouveaux éléments au sein d'entreprise peut se faire de différentes façons et par différents moyen.<br>
+Les recruteurs utilisent certains biais afin de recruter au sein de leur entreprises, tels que les suivants : <br>
+
+- Le recrutement en ligne
+
+Le recrutemeent en ligne est une part importante du recrutement de nouveaux éléments au sein d'une entreprise.<br>
+L'envergure d'Internet en fait le meilleur candidat afin de propager des offres d'emploi.
+
+- Les cabinets de recrutement
+
+Il arrive qu'une entreprise souhaite en engager une autre afin de s'occuper de l'aspect recrutement,<br>
+les cabinets de recrutements sont spécialisés dans certains domaines et sont utilisé pour trouver de nouveaux<br>
+éléments avec un haut niveau de compétence.
+
+- Le recrutement interne
+
+Certaines entreprises privilègient la promotion d'un employé afin de créer un nouveau poste à responsabilités.<br>
+De ce fait, grace à cette façon de faire, l'employé à une meilleure connaissance de l'environnement qu'un élément externe.
+
+- Le recrutement pas cooptation
+
+Le recrutement par cooptation consiste à soliciter les salariés au sein de l'entreprise afin<br>
+de rechercher de nouveaux employés provennnant de l'entourage du salarié<br>
+
+Ainsi, le parrain reçoit une prime, le nouvel employé obtient un travail, l'entreprise remplit ses effectifs.<br>
+
+Il existe des étapes préalables au recrutement de nouveaux éléments, tels que la vérification du besoin réel,<br>
+c'est à dire que l'entreprise réalise une une vérification des postes à pourvoir, vient ensuite l'étape de la<br>
+rédaction d'offre si la vérification du besoin réel à aboutit à un recrutement externe d'éléments.<br>
+
+L'entreprise rédige alors une offre d'emploi et la diffuse par le biais des moyens vus ci-dessus.<br> 
+
+Une fois ces 2 étapes faites, l'entreprise traitent les candidatures reçues, le délai du recrutement<br>
+atteint en moyenne 32 jours.<br>
+
