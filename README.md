@@ -7,6 +7,7 @@
     - <a href='#evolution-developer'>Les évolutions possibles du Développeur Blockchain</a>
 - <a href='#fullstack'>Un FullStack compétent ces temps-ci ?</a>
 - <a href='#diff-ingeneer-developer'>Quelle est la différence entre un Ingénieur Logiciel et un Développeur</a>
+- <a href='#hardskills'>Est ce qu'avoir des compétences signifie être compétent</a>
 
 # Introduction <a id='introduction'></a>
 
@@ -140,7 +141,7 @@ Alors que le simple développeur doit quant à lui s'occuper de produire du code
 et debbugable, il s'assure aussi du maintient de l'application dans la plupârt des cas ainsi que<br>
 de concevoir l'application à son échelle.<br>
 
-# Avoir des compétences = Être compétent ?
+# Avoir des compétences = Être compétent ? <a id='hardskills'></a>
 
 Le fait d'avoir des compétences ne signifie pas en soit être compétent, ça ne suffit pas.<br>
 Il est possible d'avoir des compétences dans un domaine, si elles sont pas mises en oeuvre correctement<br>
@@ -149,3 +150,29 @@ on est pas compétent.<br>
 Prenons l'exemple de quelqu'un qui sort d'université, il a acquit des compétences théoriques<br>
 cepedant lors de la mise en pratique de ces compétences, tout ne se passera pas comme prévu<br>
 Il n'est pas compétent, il dispose simplement de compétences.<br>
+
+# Les différents types d'entreprises
+
+# La Start-up
+
+Lorsque l'on travaille au sein d'une start-up, il est nécessaire d'accorder de l'importance au<br>
+facteur humain et donc d'être capable de travailler en équipe, tout en étant autonome malgrés tout.<br>
+
+Le choix d'une start-up peut-être fait d'avantage par les ambitions que l'on se fixe que par le corps<br>
+de métier dans lequel on se trouve, même si cela reste quand même un facteur à prendre en compte.<br>
+
+Il est d'avantage conseillé d'être polyvalent au sein d'une start-up plutôt que d'être spécialisé<br>
+dans un seul domaine distinct, puis-ce que vous êtes amenés à mener à bien des projets avec une équipe<br>
+dans des domaines divers et variés.<br>
+
+En Start-Up l'ambiance étant plus détendue que dans d'autre type d'entreprise, l'accoutrement n'est pas stricte<br>
+comme au sein d'un grand groupe par exemple.<br>
+
+Puis-ce que vous êtes amenés à travailler en équipe sur des projets divers et variés, les journées sont plutôt<br>
+toujours les mêmes, lors d'un projet vous travaillez dessus avec votre équipe jusqu'à ce qu'il soit mené à bien.<br>
+
+Lorsque vous n'en avez pas, vous en choisissez un et vous vous mettez d'accord avec votre équipe sur la façon dont<br>
+doit être abordé le projet, quels outils vous allez mettre en place et qui sera le plus adapté.<br>
+
+Pour travailler dans une start-up il faut être prêt à s'investir réellement dans son entreprise et s'avoir s'imposer<br>
+des contraintes personnelles.<br>
