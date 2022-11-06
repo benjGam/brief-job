@@ -67,8 +67,8 @@ afin d'élaborer une blockchain fiable et optimisée.<br>
 Le DevOps (Developpeur Opérateur) blockchain et le développeur blockchain, sont eux aussi<br>
 amenés à collaborer tout au long du cycle de vie de la blockchain sur laquelle ils travaillent<br>
 car le DevOps à une place importante dans le développement de la blockchain, il sera à même<br>
-
 d'établir une liaison entre la partie développement de la blockchain et l'adaptabilité système<br>
+
 Il s'agit donc d'un élément très important qui sera amené à collaborer avec le développeur Blockchain<br>
 ainsi qu'avec l'ingénieur blockchain.<br>
 
@@ -109,3 +109,11 @@ Aussi faire preuve de réactivité, afin de prévenir toute situation inatendue<
 Le développeur blockchain peut devenir un ingénieur blockchain par la suite<br>
 Ou bien encore un architecte blockchain, s'il a suffisamment d'expérience.<br>
 
+# Fullstack et compétent en 2022 ?
+
+Le terme 'FullStack' signifie littéralement 'Pleines Technologies' c'est à dire<br>
+qu'un développeur se revendiquant fullstack maîtrise toutes les technologies de son<br>
+domaine, par exemple un développeur Web FullStack doit maîtriser les technologies<br>
+concernant le Front-End et les technologies concernant le Back-End, cependant<br>
+il y'a beaucoup trop de technologies dans ces 2 domaines pour être capables de toutes<br>
+les maîtriser, c'est pourquoi il est impossible d'être un développeur FullStack compétent.<br>
