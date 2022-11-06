@@ -17,13 +17,13 @@ se décline en fait en 2 rôles bien distincts :
 
 - Le 'Core BLockchain Developer' 
 
-Le Développeur de Coeur Blockchain est un développeur qui va s'occuper de toute la<br>
+Le Développeur de Coeur Blockchain est un développeur qui va s'occuper de la<br>
 partie structurelle de la blockchain, il va designer la blockchain, créer des <br>
 paternes de sécurité, superviser tout ce qui touche au réseau concernant la blockchain<br>
 
 - Le 'Blockchain Software Developer'
 
-Le Développeur Logicielle Blockchain va quant à lui, s'occuper de développer des<br>
+Le Développeur Logiciel Blockchain va quant à lui, s'occuper de développer des<br>
 logiciels afin de les distribuer sur la plateforme blockchain, il s'occupe de la partie<br>
 Front-end et Back-end, il maintiendra ces logiciels.<br>
 
@@ -38,18 +38,19 @@ Il est important de connaître les langages de programmation orientés Blockchai
 
 Aussi, le développeur est amené à développer des solutions ou utiliser des solutions<br>
 cryptographiques, c'est pourquoi il s'agit d'un aspect du métier de développeur blockchain<br>
-à ne pas néglirer.<br>
+à ne pas négliger.<br>
 
-# Avec qui est amené à travailler le Développeur Blockchain
-
-Le Développeur Blockchain peut-être amené avec d'autres métiers tels que les suivants :<br>
+Le développeur blockchain doit être capable de mettre en place une architecture blockchain<br>
+sécurisé, d'analyser les données concernant sa blockchain.<br>
+En outre, il doit être capable de s'assurer du bon fonctionnement des composants logiciels,<br>
+la collaboration avec les différents acteurs de la blockchain tels que : 
 
 - L'architecte Blockchain
 - L'ingénieur Blockchain
 - Le DevOps Blockchain
 
-L'architecte blockchain et le développeur blockchain peuvent être amener à travailler<br>
-ensemble afin d'élaborer l'architecture la plus adapté à la blockchain.<br>
+L'architecte blockchain et le développeur blockchain peuvent être amené à travailler<br>
+ensemble afin d'élaborer l'architecture la plus adaptée à la blockchain.<br>
 L'architecte est en charge de toute la partie conception de la blockchain ainsi que<br>
 d'apporter des solutions de sécurité adpatées à l'infrastructure de la blockchain<br>
 Il sera lui même amené à collaborer avec l'ingénieur blockchain.<br>
@@ -64,3 +65,5 @@ car le DevOps à une place importante dans le développement de la blockchain, i
 d'établir une liaison entre la partie développement de la blockchain et l'adaptabilité système<br>
 Il s'agit donc d'un élément très important qui sera amené à collaborer avec le développeur Blockchain<br>
 ainsi qu'avec l'ingénieur blockchain.<br>
+
+Le développeur blockchain doit être à même de corriger des bugs.<br>
