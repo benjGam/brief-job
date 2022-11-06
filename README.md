@@ -137,4 +137,15 @@ il écrit la documentation technique relative à l'application et s'assure que l
 de cette dernière soit correctement effectué, il évalue les retours des utilisateurs.<br>
 
 Alors que le simple développeur doit quant à lui s'occuper de produire du code fiable, optimisé<br>
-et debbugable, il s'assure aussi du maintient de l'application dans la plupârt des cas.<br>
+et debbugable, il s'assure aussi du maintient de l'application dans la plupârt des cas ainsi que<br>
+de concevoir l'application à son échelle.<br>
+
+# Avoir des compétences = Être compétent ?
+
+Le fait d'avoir des compétences ne signifie pas en soit être compétent, ça ne suffit pas.<br>
+Il est possible d'avoir des compétences dans un domaine, si elles sont pas mises en oeuvre correctement<br>
+on est pas compétent.<br>
+
+Prenons l'exemple de quelqu'un qui sort d'université, il a acquit des compétences théoriques<br>
+cepedant lors de la mise en pratique de ces compétences, tout ne se passera pas comme prévu<br>
+Il n'est pas compétent, il dispose simplement de compétences.<br>
