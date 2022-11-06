@@ -77,7 +77,7 @@ d'établir une liaison entre la partie développement de la blockchain et l'adap
 Il s'agit donc d'un élément très important qui sera amené à collaborer avec le développeur Blockchain<br>
 ainsi qu'avec l'ingénieur blockchain.<br>
 
-# Les outils du Développeur Blockchain
+# Les outils du Développeur Blockchain <a id='tools-developer'></a>
 
 Le développeur Blockchain doit avoir connaissance de quelques outils pour travailler correctement<br>
 Les outils du développeur Blockchain : 
@@ -96,7 +96,7 @@ Cependant, lors du développement d'application décentralisé (dApps) ces outil
 Il existe encore un très large panel d'outil.<br>
 <a href='https://www.codementor.io/learn/blockchain/development-tools'>Consultez une liste plus complète</a>
 
-# Soft skills nécessaires au Développeur Blockchain
+# Soft skills nécessaires au Développeur Blockchain <a id='soft-skills-developer'></a>
 
 Le développeur blockchain doit savoir faire preuve de rigueur lors du développement de la blockchain<br>
 car il s'agit d'un système relativement complexe.<br>
@@ -109,12 +109,12 @@ oeuvre la blockchain.<br>
 
 Aussi faire preuve de réactivité, afin de prévenir toute situation inatendue<br>
 
-# Les évolutions possible du Développeur Blockchain
+# Les évolutions possible du Développeur Blockchain <a id='evolution-developer'></a>
 
 Le développeur blockchain peut devenir un ingénieur blockchain par la suite<br>
 Ou bien encore un architecte blockchain, s'il a suffisamment d'expérience.<br>
 
-# Fullstack et compétent en 2022 ?
+# Fullstack et compétent en 2022 ? <a id='fullstack'></a>
 
 Le terme 'FullStack' signifie littéralement 'Pleines Technologies' c'est à dire<br>
 qu'un développeur se revendiquant fullstack maîtrise toutes les technologies de son<br>
@@ -123,7 +123,7 @@ concernant le Front-End et les technologies concernant le Back-End, cependant<br
 il y'a beaucoup trop de technologies dans ces 2 domaines pour être capables de toutes<br>
 les maîtriser, c'est pourquoi il est impossible d'être un développeur FullStack compétent.<br>
 
-# Qu'est ce qu'un 'Ingénieur Logiciel' doit faire de plus qu'un 'Simple' Développeur 
+# Qu'est ce qu'un 'Ingénieur Logiciel' doit faire de plus qu'un 'Simple' Développeur <a id='diff-ingeneer-developer'></a>
 
 L'ingénieur logiciel doit s'assurer du bon déroulement de tous les aspects concernant<br>
 l'application pendant toute la durée du cycle de vie de cette dernière.<br>
