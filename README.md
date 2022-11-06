@@ -90,3 +90,16 @@ possibilités disponibles en terme d'outillage lié au développement blockchain
 Cependant, lors du développement d'application décentralisé (dApps) ces outils seront d'indispensables.<br>
 Il existe encore un très large panel d'outil.<br>
 <a href='https://www.codementor.io/learn/blockchain/development-tools'>Consultez une liste plus complète</a>
+
+# Soft skills nécessaire au Développeur Blockchain
+
+Le développeur blockchain doit savoir faire preuve de rigueur lors du développement de la blockchain<br>
+car il s'agit d'un système relativement complexe.<br>
+
+Il doit aussi être curieux, afin de toujours accroitre son savoir sur les technologies<br>
+de la blockchain.<br>
+
+Le dévelopeur blockchain doit être capable d'innover afin de créer de nouvelles façons de mettre en<br>
+oeuvre la blockchain.<br>
+
+Aussi faire preuve de réactivité, afin de prévenir toute situation inatendue<br>
